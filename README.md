@@ -76,7 +76,7 @@ Software Setup
 
 1. Clone this repository:
 
-git clone https://github.com/your-repo/iot-weight-gps.git
+git clone <link-to-this-repo>
 
 
 2. Open the code in the Arduino IDE.
